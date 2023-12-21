@@ -1,2 +1,5 @@
-package org.example;public interface CalculeIGRStategy {
+package org.example;
+
+public interface CalculeIGRStategy {
+    float CalculIR(float salireBrutAnnuel);
 }
